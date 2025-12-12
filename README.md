@@ -9,11 +9,11 @@
 
 | Project | Description | Stars |
 |--------|-------------|-------|
-| [Portfolio](https://vanshnagar.me/) | My personal portfolio showcasing my projects, skills, and designs. Built with Next.js, React, and Tailwind CSS. | N/A |
+| [Portfolio](https://vanshnagar.me/) | My personal portfolio showcasing my projects, skills, and designs. Built with Next.js, React, and Tailwind CSS. | ![stars](https://img.shields.io/github/stars/vansh-nagar/portfolio-2.0?style=flat&logo=github) |
 | [Arc Labs](https://github.com/your-username/arc-labs) | AI-powered resume & interview tool built with Next.js, TypeScript, Tailwind CSS, Prisma, Three.js | ![stars](https://img.shields.io/github/stars/your-username/arc-labs?style=flat&logo=github) |
-| [Orcha](https://github.com/your-username/orcha) | Workflow automation platform connecting apps & services, built with Next.js, TypeScript, Trpc, Prisma | ![stars](https://img.shields.io/github/stars/your-username/orcha?style=flat&logo=github) |
-| [Pixel Perfect](https://github.com/your-username/pixel-perfect) | Pixel-perfect React component library for building responsive UIs quickly | ![stars](https://img.shields.io/github/stars/your-username/pixel-perfect?style=flat&logo=github) |
-| [Zip](https://github.com/your-username/zip) | Desktop productivity app built with Electron, React, TypeScript, SQLite | ![stars](https://img.shields.io/github/stars/your-username/zip?style=flat&logo=github) |
+| [Orcha](https://github.com/your-username/orcha) | Workflow automation platform connecting apps & services, built with Next.js, TypeScript, Trpc, Prisma | ![stars](https://img.shields.io/github/stars/vansh-nagar/orcha?style=flat&logo=github) |
+| [Pixel Perfect](https://github.com/your-username/pixel-perfect) | Pixel-perfect React component library for building responsive UIs quickly | ![stars](https://img.shields.io/github/stars/Nexvyn/pro-pixel-perfect?style=flat&logo=github) |
+| [Zip](https://github.com/your-username/zip) | Desktop productivity app built with Electron, React, TypeScript, SQLite | ![stars](https://img.shields.io/github/stars/vansh-nagar/zip?style=flat&logo=github) |
 
 ---
 
@@ -25,7 +25,6 @@
 | **Backend** | <img src="https://cdn.simpleicons.org/nodedotjs" width="16"/> Node.js • <img src="https://cdn.simpleicons.org/express" width="16"/> Express • <img src="https://cdn.simpleicons.org/prisma" width="16"/> Prisma • <img src="https://cdn.simpleicons.org/mongodb" width="16"/> MongoDB • <img src="https://cdn.simpleicons.org/postgresql" width="16"/> PostgreSQL |
 | **DevOps / Tools** | <img src="https://cdn.simpleicons.org/docker" width="16"/> Docker • <img src="https://cdn.simpleicons.org/git" width="16"/> Git • <img src="https://cdn.simpleicons.org/github" width="16"/> GitHub |
 | **Mobile** | <img src="https://cdn.simpleicons.org/react" width="16"/> React Native |
-| **Design** | <img src="https://cdn.simpleicons.org/figma" width="16"/> Figma |
 
 ---
 
