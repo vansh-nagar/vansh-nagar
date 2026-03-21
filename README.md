@@ -10,8 +10,8 @@
 | Project | Description | Stars |
 |--------|-------------|-------|
 | [Pixel Perfect](https://github.com/vansh-nagar/Pixel-Perfect) | Pixel-perfect React component library to build responsive UIs quickly and effortlessly | ![stars](https://img.shields.io/github/stars/vansh-nagar/Pixel-Perfect?style=flat&logo=github) |
+| [Ascii Studio](https://github.com/vansh-nagar/ascii-studio) | Turn videos into ASCII frames — real character-based frames that run smoothly in sequence | ![stars](https://img.shields.io/github/stars/vansh-nagar/ascii-studio?style=flat&logo=github) |
 | [Portfolio](https://vanshnagar.me/) | My personal portfolio showcasing my projects, skills, and designs. Built with Next.js, React, and Tailwind CSS. | ![stars](https://img.shields.io/github/stars/vansh-nagar/portfolio-2.0?style=flat&logo=github) |
-| [Arc Labs](https://github.com/vansh-nagar/arc-labs) | AI-powered resume & interview tool built with Next.js, TypeScript, Tailwind CSS, Prisma, Three.js | ![stars](https://img.shields.io/github/stars/vansh-nagar/arc-labs?style=flat&logo=github) |
 | [Orcha](https://github.com/vansh-nagar/orcha) | Workflow automation platform connecting apps & services, built with Next.js, TypeScript, Trpc, Prisma | ![stars](https://img.shields.io/github/stars/vansh-nagar/orcha?style=flat&logo=github) |
 [CoCursor](https://github.com/vansh-nagar/cocursor) | collaborative, AI-powered browser IDE that combines real-time multiplayer coding, intelligent code assistance, and a full in-browser development environment. | ![stars](https://img.shields.io/github/stars/vansh-nagar/cocursor?style=flat&logo=github) |
 
