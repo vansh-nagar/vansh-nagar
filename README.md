@@ -24,7 +24,6 @@
 | **Frontend** | <img src="https://cdn.simpleicons.org/javascript" width="16"/> JavaScript • <img src="https://cdn.simpleicons.org/typescript" width="16"/> TypeScript • <img src="https://cdn.simpleicons.org/react" width="16"/> React • <img src="https://cdn.simpleicons.org/nextdotjs" width="16"/> Next.js • <img src="https://cdn.simpleicons.org/greensock" width="16"/> GSAP • <img src="https://cdn.simpleicons.org/threedotjs" width="16"/> Three.js / R3F |
 | **Backend** | <img src="https://cdn.simpleicons.org/nodedotjs" width="16"/> Node.js • <img src="https://cdn.simpleicons.org/express" width="16"/> Express • <img src="https://cdn.simpleicons.org/prisma" width="16"/> Prisma • <img src="https://cdn.simpleicons.org/mongodb" width="16"/> MongoDB • <img src="https://cdn.simpleicons.org/postgresql" width="16"/> PostgreSQL |
 | **DevOps / Tools** | <img src="https://cdn.simpleicons.org/docker" width="16"/> Docker • <img src="https://cdn.simpleicons.org/git" width="16"/> Git • <img src="https://cdn.simpleicons.org/github" width="16"/> GitHub |
-| **Mobile** | <img src="https://cdn.simpleicons.org/react" width="16"/> React Native |
 
 --- 
 
