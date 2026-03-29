@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Vansh Nagar
 ## ꕤ About Me
 - Hi, I'm **Vansh Nagar**
 - Check out my **[portfolio](https://vanshnagar.me/)**  
